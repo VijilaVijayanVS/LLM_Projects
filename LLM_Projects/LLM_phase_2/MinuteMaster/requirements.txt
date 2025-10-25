@@ -1,0 +1,7 @@
+streamlit==1.29.0
+torch==2.1.0
+transformers==4.35.0
+librosa==0.10.1
+soundfile==0.12.1
+numpy==1.24.3
+accelerate==0.24.0
