@@ -1,0 +1,13 @@
+# core
+transformers>=4.34
+datasets
+accelerate>=0.20
+peft
+bitsandbytes
+torch>=2.1
+streamlit
+pandas
+scikit-learn
+sentencepiece
+evaluate
+wandb # optional for experiment tracking
